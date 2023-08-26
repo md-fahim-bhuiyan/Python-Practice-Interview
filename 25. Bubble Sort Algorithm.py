@@ -1,2 +1,5 @@
 def bubble_sort_algo():
-    pass
+    print("Nothing To Say")
+
+
+bubble_sort_algo()
